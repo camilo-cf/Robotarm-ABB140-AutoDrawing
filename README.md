@@ -1,4 +1,4 @@
-# ABB 140 Robot Draws a Given Picture
+# ABB 140 Robot Draws a Given Picture (Python)
 This project takes an image as an input and processes it to create a custom drawing. 
 
 ![Project Customization](Support_Files/E2.png)
