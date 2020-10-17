@@ -3,11 +3,11 @@ This project takes an image as an input and processes it to create a custom draw
 
 ![Project Customization](Support_Files/E2.png)
 
-Look at a video of the simulation in VREP now CoppeliaSim.
+Look at a [video](http://www.youtube.com/watch?v=eBD8MeGVFI8) of the simulation in VREP now CoppeliaSim.
 
 [![ABB 140 Drawing in VREP](http://img.youtube.com/vi/eBD8MeGVFI8/0.jpg)](http://www.youtube.com/watch?v=eBD8MeGVFI8 "ABB 140 Drawing in VREP")
 
-And the implementation in the real robot.
+And a [video](http://www.youtube.com/watch?v=cmtysZaNMQg) of the implementation in the real robot.
 
 [![Robot arm ABB140 Drawing a custom image](http://img.youtube.com/vi/cmtysZaNMQg/0.jpg)](http://www.youtube.com/watch?v=cmtysZaNMQg "Robot arm ABB140 Drawing a custom image")
 
