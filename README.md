@@ -15,7 +15,7 @@ Sample of the obtained drawing in the real robot
 
 <p align="center">
 <img src="Support_Files/Real_image.png" width="220" class="center"/>
-<img src="Support_Files/image7.svg" width="170" class="center"/>
+<img src="Support_Files/image7.png" width="170" class="center"/>
 </p>
 
 It is not the best, but the algorithm can be improved.
@@ -68,7 +68,7 @@ The trajectory looks like this:
 Dummy point:
 
 <p align="center">
-<img src="Support_Files/image4.svg" width="500" class="center"/>
+<img src="Support_Files/image4.png" width="500" class="center"/>
 </p>
 
 The implementation of kinematics in VREP needs:
@@ -79,7 +79,7 @@ The implementation of kinematics in VREP needs:
 ## Overview of the project
 
 <p align="center">
-<img src="Support_Files/image5.svg" width="500" class="center"/>
+<img src="Support_Files/image5.png" width="500" class="center"/>
 </p>
 
 
@@ -93,7 +93,7 @@ The implementation of kinematics in VREP needs:
 Used template:
 
 <p align="center">
-<img src="Support_Files/image6.svg" width="500" class="center"/>
+<img src="Support_Files/image6.png" width="500" class="center"/>
 </p>
 
 
